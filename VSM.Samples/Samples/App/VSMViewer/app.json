@@ -300,7 +300,7 @@
     {
       "$type": "branding",
       "id": "branding",
-      "activeTheme": "dark",
+      "activeTheme": "light",
       "themes": [
         {
           "id": "dark",

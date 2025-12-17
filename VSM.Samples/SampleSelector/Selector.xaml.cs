@@ -108,7 +108,7 @@
                     Name = "Taskbar",
                     App = "taskbar.json",
                     Layout = "taskbar.xml",
-                    Description = "Demonstrates the configuration of taskbar items.",
+                    Description = "Demonstrates the configuration of taskbar RootNodes.",
                     PathFragment = "Layout.Taskbar"
                 },
                 new Sample
